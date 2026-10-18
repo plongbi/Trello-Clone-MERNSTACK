@@ -1,0 +1,134 @@
+[
+  {
+    "id": "kanban-basic",
+    "name": "Kanban Cơ Bản",
+    "category": "engineering",
+    "categoryLabel": "Kỹ Thuật",
+    "description": "Quản lý công việc đơn giản với 3 cột cổ điển. Lý tưởng cho các dự án nhỏ và quản lý cá nhân.",
+    "columns": ["To Do", "In Progress", "Done"],
+    "color": "#0052CC",
+    "icon": "🚀",
+    "usageCount": 15420
+  },
+  {
+    "id": "scrum-sprint",
+    "name": "Scrum Sprint",
+    "category": "engineering",
+    "categoryLabel": "Kỹ Thuật",
+    "description": "Quản lý sprint theo phương pháp Scrum. Bao gồm Backlog, Sprint và Review.",
+    "columns": ["Backlog", "Sprint", "In Progress", "Review", "Done"],
+    "color": "#00875A",
+    "icon": "⚡",
+    "usageCount": 8930
+  },
+  {
+    "id": "bug-tracking",
+    "name": "Bug Tracking",
+    "category": "engineering",
+    "categoryLabel": "Kỹ Thuật",
+    "description": "Theo dõi và quản lý lỗi phần mềm từ khi phát hiện đến khi sửa xong.",
+    "columns": ["Reported", "Confirmed", "In Fix", "Testing", "Resolved"],
+    "color": "#DE350B",
+    "icon": "🐛",
+    "usageCount": 6210
+  },
+  {
+    "id": "marketing-campaign",
+    "name": "Chiến Dịch Marketing",
+    "category": "marketing",
+    "categoryLabel": "Marketing",
+    "description": "Lên kế hoạch và theo dõi các chiến dịch marketing từ ý tưởng đến triển khai.",
+    "columns": ["Ideas", "Planning", "In Progress", "Review", "Published"],
+    "color": "#FF5630",
+    "icon": "📣",
+    "usageCount": 5670
+  },
+  {
+    "id": "content-calendar",
+    "name": "Lịch Nội Dung",
+    "category": "marketing",
+    "categoryLabel": "Marketing",
+    "description": "Quản lý lịch đăng bài cho blog, mạng xã hội và các kênh truyền thông.",
+    "columns": ["Ideas", "Writing", "Editing", "Scheduled", "Published"],
+    "color": "#FF8B00",
+    "icon": "📅",
+    "usageCount": 4380
+  },
+  {
+    "id": "social-media",
+    "name": "Quản Lý Mạng Xã Hội",
+    "category": "marketing",
+    "categoryLabel": "Marketing",
+    "description": "Theo dõi nội dung cho các nền tảng Facebook, Instagram, TikTok, LinkedIn.",
+    "columns": ["Draft", "Pending Approval", "Scheduled", "Live"],
+    "color": "#6554C0",
+    "icon": "📱",
+    "usageCount": 3920
+  },
+  {
+    "id": "hr-recruitment",
+    "name": "Tuyển Dụng Nhân Sự",
+    "category": "hr",
+    "categoryLabel": "Nhân Sự",
+    "description": "Quản lý quy trình tuyển dụng từ tiếp nhận hồ sơ đến onboarding nhân viên mới.",
+    "columns": ["Applied", "Screening", "Interview", "Offer", "Hired"],
+    "color": "#00B8D9",
+    "icon": "👥",
+    "usageCount": 3150
+  },
+  {
+    "id": "onboarding",
+    "name": "Onboarding Nhân Viên",
+    "category": "hr",
+    "categoryLabel": "Nhân Sự",
+    "description": "Hướng dẫn nhân viên mới làm quen với công ty, văn hóa và công việc.",
+    "columns": ["Pre-boarding", "Week 1", "Month 1", "Completed"],
+    "color": "#36B37E",
+    "icon": "🎉",
+    "usageCount": 2890
+  },
+  {
+    "id": "project-management",
+    "name": "Quản Lý Dự Án",
+    "category": "project",
+    "categoryLabel": "Dự Án",
+    "description": "Template toàn diện cho quản lý dự án từ khởi động đến hoàn thành và đánh giá.",
+    "columns": ["Initiation", "Planning", "Execution", "Monitoring", "Closure"],
+    "color": "#0065FF",
+    "icon": "📊",
+    "usageCount": 9870
+  },
+  {
+    "id": "product-roadmap",
+    "name": "Product Roadmap",
+    "category": "project",
+    "categoryLabel": "Dự Án",
+    "description": "Lên kế hoạch phát triển sản phẩm theo từng quý và theo dõi tiến độ.",
+    "columns": ["Q1", "Q2", "Q3", "Q4", "Backlog"],
+    "color": "#403294",
+    "icon": "🗺️",
+    "usageCount": 7340
+  },
+  {
+    "id": "simple-todo",
+    "name": "Danh Sách Công Việc",
+    "category": "personal",
+    "categoryLabel": "Cá Nhân",
+    "description": "Danh sách công việc đơn giản nhất để bắt đầu. Không cần kinh nghiệm về quản lý dự án.",
+    "columns": ["To Do", "Doing", "Done"],
+    "color": "#4C9AFF",
+    "icon": "✅",
+    "usageCount": 21500
+  },
+  {
+    "id": "weekly-goals",
+    "name": "Mục Tiêu Hàng Tuần",
+    "category": "personal",
+    "categoryLabel": "Cá Nhân",
+    "description": "Theo dõi mục tiêu và thói quen hàng tuần để tăng năng suất cá nhân.",
+    "columns": ["This Week", "In Progress", "Done", "Next Week"],
+    "color": "#FFAB00",
+    "icon": "🎯",
+    "usageCount": 5820
+  }
+]
